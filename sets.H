@@ -23,8 +23,6 @@ extern "C" {
 //		See the html documentation for how to use these classes
 //
 // This file implements sets through tcl hash tables.
-// See the html documentation accesed through ~/indev/lithas/docs/html/gui.html
-// for information on how to use these data structures.
 //
 // **********************************************************************
 
