@@ -22,10 +22,11 @@ Tests passed.  No errors found.
 
 ## Issues
 
-Note that this code is old. It is relatively straightforward,
-commented, and contains the unit tests to verify correctness so it
-should still be useful. That said, you may have a few minor issues as
-discussed below:
+Note that this code is old that used to live at
+http://web.mit.edu/~emin/www.old/source_code/cpp_trees/ until MIT took that site down.
+It is relatively straightforward, commented, and contains the unit tests
+to verify correctness so it should still be useful. That said, you may have a
+few minor issues as discussed below:
 
   1. Compiler warnings: When originally developed, this code compiled
      with the `-pedantic` flag with no warnings. Since then C++ has moved
